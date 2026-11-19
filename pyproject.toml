@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "review-monitor"
+version = "1.0.0"
+description = "AI agent that collects Airbnb guest reviews into a Google Sheet and reports Booking.com's bot block instead of bypassing it"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Keegan Leach" }]
+dependencies = ["requests>=2.31", "google-auth>=2.20", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["review_monitor*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

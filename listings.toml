@@ -1,0 +1,62 @@
+# The 10 homes from the Conduit onsite exercise. Each home is listed on both platforms.
+# Platform data is never merged: each site keeps its own categories and scale.
+
+[[home]]
+id = 1
+country = "Canada"
+airbnb = "1108914798187931072"
+booking = "https://www.booking.com/hotel/ca/corktown-hamilton-modern-apartment.en-gb.html"
+
+[[home]]
+id = 2
+country = "Canada"
+airbnb = "1369831969375510019"
+booking = "https://www.booking.com/hotel/ca/glenview-west-apartment-w-patio-near-downtown.en-gb.html"
+
+[[home]]
+id = 3
+country = "Canada"
+airbnb = "1369819248348941727"
+booking = "https://www.booking.com/hotel/ca/1br-basement-condo-james-street.en-gb.html"
+
+[[home]]
+id = 4
+country = "Canada"
+airbnb = "1057301472670770851"
+booking = "https://www.booking.com/hotel/ca/apartment-in-the-james-south-neighborhood.en-gb.html"
+
+[[home]]
+id = 5
+country = "Canada"
+airbnb = "808784859146076200"
+booking = "https://www.booking.com/hotel/ca/luxury-2br-condo-king-bed-stunning-city-views.en-gb.html"
+
+[[home]]
+id = 6
+country = "United States"
+airbnb = "47411844"
+booking = "https://www.booking.com/hotel/us/spacious-3br-condo-family-resort-pool-and-hot-tub.en-gb.html"
+
+[[home]]
+id = 7
+country = "United States"
+airbnb = "46192879"
+booking = "https://www.booking.com/hotel/us/family-resort-4br-home-near-disney-private-pool-bbq.en-gb.html"
+
+[[home]]
+id = 8
+country = "United States"
+airbnb = "583425371118987890"
+booking = "https://www.booking.com/hotel/us/bright-condo-near-disney.en-gb.html"
+
+[[home]]
+id = 9
+country = "United States"
+airbnb = "634644403422457312"
+booking = "https://www.booking.com/hotel/us/family-home-star-wars-and-princess-room-7br-sleeps-14-with-pool-hot-tub-and-game.en-gb.html"
+
+[[home]]
+id = 10
+country = "Costa Rica"
+airbnb = "962471135703965656"
+booking = "https://www.booking.com/hotel/cr/modern-2br-condo-minutes-from-jaco-beach-prime-location.en-gb.html"

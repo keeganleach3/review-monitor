@@ -1,0 +1,534 @@
+{
+  "captured_on": "2026-11-18",
+  "note": "Values captured during the Nov 18 onsite runs. Reviewer names anonymized; host names removed from review text.",
+  "airbnb": {
+    "1": {
+      "listing_id": "1108914798187931072",
+      "overall": 4.66,
+      "review_count": 334,
+      "categories": {
+        "Cleanliness": 4.7,
+        "Accuracy": 4.7,
+        "Check-in": 4.8,
+        "Communication": 4.8,
+        "Location": 4.6,
+        "Value": 4.6
+      }
+    },
+    "2": {
+      "listing_id": "1369831969375510019",
+      "overall": 4.46,
+      "review_count": 219,
+      "categories": {
+        "Cleanliness": 4.5,
+        "Accuracy": 4.4,
+        "Check-in": 4.8,
+        "Communication": 4.8,
+        "Location": 4.4,
+        "Value": 4.4
+      }
+    },
+    "3": {
+      "listing_id": "1369819248348941727",
+      "overall": 4.63,
+      "review_count": 163,
+      "categories": {
+        "Cleanliness": 4.8,
+        "Accuracy": 4.6,
+        "Check-in": 4.7,
+        "Communication": 4.8,
+        "Location": 4.6,
+        "Value": 4.6
+      }
+    },
+    "4": {
+      "listing_id": "1057301472670770851",
+      "overall": 4.72,
+      "review_count": 192,
+      "categories": {
+        "Cleanliness": 4.8,
+        "Accuracy": 4.7,
+        "Check-in": 4.9,
+        "Communication": 4.9,
+        "Location": 4.8,
+        "Value": 4.6
+      }
+    },
+    "5": {
+      "listing_id": "808784859146076200",
+      "overall": 4.74,
+      "review_count": 50,
+      "categories": {
+        "Cleanliness": 4.7,
+        "Accuracy": 4.8,
+        "Check-in": 4.4,
+        "Communication": 4.7,
+        "Location": 5.0,
+        "Value": 4.7
+      }
+    },
+    "6": {
+      "listing_id": "47411844",
+      "overall": 4.54,
+      "review_count": 72,
+      "categories": {
+        "Cleanliness": 4.5,
+        "Accuracy": 4.5,
+        "Check-in": 4.9,
+        "Communication": 4.9,
+        "Location": 4.6,
+        "Value": 4.6
+      }
+    },
+    "7": {
+      "listing_id": "46192879",
+      "overall": 4.7,
+      "review_count": 159,
+      "categories": {
+        "Cleanliness": 4.6,
+        "Accuracy": 4.8,
+        "Check-in": 4.9,
+        "Communication": 4.8,
+        "Location": 4.9,
+        "Value": 4.7
+      }
+    },
+    "8": {
+      "listing_id": "583425371118987890",
+      "overall": 4.6,
+      "review_count": 87,
+      "categories": {
+        "Cleanliness": 4.6,
+        "Accuracy": 4.7,
+        "Check-in": 4.8,
+        "Communication": 4.8,
+        "Location": 4.7,
+        "Value": 4.7
+      }
+    },
+    "9": {
+      "listing_id": "634644403422457312",
+      "overall": 4.67,
+      "review_count": 48,
+      "categories": {
+        "Cleanliness": 4.8,
+        "Accuracy": 4.7,
+        "Check-in": 4.8,
+        "Communication": 4.9,
+        "Location": 4.8,
+        "Value": 4.6
+      }
+    },
+    "10": {
+      "listing_id": "962471135703965656",
+      "overall": 4.78,
+      "review_count": 58,
+      "categories": {
+        "Cleanliness": 4.7,
+        "Accuracy": 4.8,
+        "Check-in": 4.9,
+        "Communication": 4.9,
+        "Location": 4.8,
+        "Value": 4.8
+      }
+    }
+  },
+  "airbnb_reviews": [
+    {
+      "id": "9000000000000000001",
+      "home": 1,
+      "date": "2026-11-17",
+      "rating": 5,
+      "reviewer": "Guest 01",
+      "text": "I would highly recommend  The place was great and spacious and spotless"
+    },
+    {
+      "id": "9000000000000000002",
+      "home": 1,
+      "date": "2026-11-15",
+      "rating": 5,
+      "reviewer": "Guest 02",
+      "text": "We had an amazing stay! Everything was perfect. The house was beautiful, spotless, very comfortable, and well-organized. It also smelled absolutely wonderful, with such a fresh and pleasant scent throughout the house! It had everything we needed, and we truly felt at home. The location was fantastic, perfectly situated between Niagara Falls and Toronto, making it easy to visit both places. The host was wonderful and clearly put a lot of care into every detail. This was one of our best Airbnb experiences! We would definitely stay here again and highly recommend this place to anyone visiting the area. Thank you so much for everything!"
+    },
+    {
+      "id": "9000000000000000003",
+      "home": 1,
+      "date": "2026-11-15",
+      "rating": 5,
+      "reviewer": "Guest 03",
+      "text": "Absolutely fantastic stay. The apartment was really clean and taken care of. My hosts were very responsive within minutes and so kind and friendly. It was a lovely part of Hamilton with loads to do in the area. I would definitely stay here again when I visit Hamilton in the future. Thanks again for a great stay."
+    },
+    {
+      "id": "9000000000000000004",
+      "home": 1,
+      "date": "2026-11-11",
+      "rating": 5,
+      "reviewer": "Guest 04",
+      "text": "Was a great stay and was very clean"
+    },
+    {
+      "id": "9000000000000000005",
+      "home": 1,
+      "date": "2026-11-08",
+      "rating": 5,
+      "reviewer": "Guest 05",
+      "text": "Extremely clean and an excellent home. Would definitely come back again."
+    },
+    {
+      "id": "9000000000000000006",
+      "home": 1,
+      "date": "2026-11-06",
+      "rating": 5,
+      "reviewer": "Guest 06",
+      "text": "Excelente lugar, muy acogedor y centrico"
+    },
+    {
+      "id": "9000000000000000007",
+      "home": 1,
+      "date": "2026-11-06",
+      "rating": 5,
+      "reviewer": "Guest 07",
+      "text": "I had a good experience with my stay in this one bedroom suite. It had all the listed amenities and was located in a great location. The host was very friendly and communicated well."
+    },
+    {
+      "id": "9000000000000000008",
+      "home": 1,
+      "date": "2026-11-03",
+      "rating": 5,
+      "reviewer": "Guest 08",
+      "text": "I had a great stay! The place was comfortable, clean, and exactly what I needed. The hosts were welcoming and made the whole experience easy and enjoyable. Great location. Quiet and peaceful. I would definitely recommend staying here."
+    },
+    {
+      "id": "9000000000000000009",
+      "home": 1,
+      "date": "2026-11-01",
+      "rating": 5,
+      "reviewer": "Guest 09",
+      "text": "This was an amazing space to check into! It looked exactly how we expected! Full kitchen so we got to cook exactly how we wanted too. We can't wait to stay again!"
+    },
+    {
+      "id": "9000000000000000010",
+      "home": 1,
+      "date": "2026-10-30",
+      "rating": 5,
+      "reviewer": "Guest 10",
+      "text": "Great place perfect to study and work well away from home with in 15 mins to the university"
+    },
+    {
+      "id": "9000000000000000011",
+      "home": 1,
+      "date": "2026-10-30",
+      "rating": 5,
+      "reviewer": "Guest 11",
+      "text": "Perfect location nice people I will definitely be going back on. My next visit to Hamilton"
+    },
+    {
+      "id": "9000000000000000012",
+      "home": 1,
+      "date": "2026-10-26",
+      "rating": 5,
+      "reviewer": "Guest 12",
+      "text": "Great location, close to Agusta street that has some great restaurants and bars. next to the access if you need to get to upper Hamilton or the link. The space was nice and clean. The hosts were great. I will definitely stay here again."
+    },
+    {
+      "id": "9000000000000000013",
+      "home": 1,
+      "date": "2026-10-24",
+      "rating": 5,
+      "reviewer": "Guest 13",
+      "text": "really great stay, very responsive hosts, nice place"
+    },
+    {
+      "id": "9000000000000000014",
+      "home": 1,
+      "date": "2026-10-23",
+      "rating": 5,
+      "reviewer": "Guest 14",
+      "text": "I had a great time staying here on my two-week rotation in Hamilton. The place was clean with all the amenities needed for a comfortable stay. The hosts also had excellent communication. No complaints."
+    },
+    {
+      "id": "9000000000000000015",
+      "home": 2,
+      "date": "2026-11-17",
+      "rating": 5,
+      "reviewer": "Guest 15",
+      "text": "Friendly hosts, cute apartment!"
+    },
+    {
+      "id": "9000000000000000016",
+      "home": 2,
+      "date": "2026-11-15",
+      "rating": 5,
+      "reviewer": "Guest 16",
+      "text": "I had a wonderful stay! The place was exceptionally clean, comfortable, and well-maintained. I felt relaxed and at home throughout my stay. Everything was just as I hoped, and I truly enjoyed my time there. I would definitely recommend this place to anyone looking for a clean, peaceful, and comfortable stay. I would happily stay here again in the future."
+    },
+    {
+      "id": "9000000000000000017",
+      "home": 2,
+      "date": "2026-11-15",
+      "rating": 5,
+      "reviewer": "Guest 17",
+      "text": "Thank you for the lovely stay. Was quiet and cute little place. Highly recommended. Would stay again in the future."
+    },
+    {
+      "id": "9000000000000000018",
+      "home": 2,
+      "date": "2026-11-13",
+      "rating": 5,
+      "reviewer": "Guest 18",
+      "text": "Would stay again!!!"
+    },
+    {
+      "id": "9000000000000000019",
+      "home": 2,
+      "date": "2026-11-07",
+      "rating": 5,
+      "reviewer": "Guest 19",
+      "text": "Beautiful place to stay for work"
+    },
+    {
+      "id": "9000000000000000020",
+      "home": 2,
+      "date": "2026-11-05",
+      "rating": 5,
+      "reviewer": "Guest 20",
+      "text": "Beautiful place, great balcony views, very comfortable and clean plus high speed internet. Easy to access and not far from everyday necessities. Would definitely stay again"
+    },
+    {
+      "id": "9000000000000000021",
+      "home": 2,
+      "date": "2026-11-01",
+      "rating": 3,
+      "reviewer": "Guest 21",
+      "text": "This location is in an old building the halls and elevator smelled like cigarette smoke. The people were friendly and the apartment looked exactly like the pictures. It was cozy and quaint. The neighbors were a bit noisy at certain times of the day but not too bad. The WiFi connection was not great but the host was very responsive when I let him know."
+    },
+    {
+      "id": "9000000000000000022",
+      "home": 2,
+      "date": "2026-11-01",
+      "rating": 5,
+      "reviewer": "Guest 22",
+      "text": "The place is cool and was ideal for my stay."
+    },
+    {
+      "id": "9000000000000000023",
+      "home": 2,
+      "date": "2026-10-28",
+      "rating": 5,
+      "reviewer": "Guest 23",
+      "text": "Great place to stay . Walkable to grocery  store Host friendly and responsive"
+    },
+    {
+      "id": "9000000000000000024",
+      "home": 2,
+      "date": "2026-10-26",
+      "rating": 5,
+      "reviewer": "Guest 24",
+      "text": "Great place to stay provided the residents in surrounding apartments aren't crazy. We had a wonderful 4 days here and was a great place to relax and unwind together after everything we were doing around town the first few days. The kitchen is very well stocked pan and utensil wise. We were missing a can opener but we're able to easily get one and left it for future guests. All in all it was a great stay with just a couple minor hiccups that didn't negatively impact the stay in any big way."
+    },
+    {
+      "id": "9000000000000000025",
+      "home": 2,
+      "date": "2026-10-25",
+      "rating": 5,
+      "reviewer": "Guest 25",
+      "text": "Enjoyed my stay. Flexible with check in/out and easy to communicate. Bus station right outside. Clean."
+    },
+    {
+      "id": "9000000000000000026",
+      "home": 2,
+      "date": "2026-10-24",
+      "rating": 3,
+      "reviewer": "Guest 26",
+      "text": "Good stay"
+    },
+    {
+      "id": "9000000000000000027",
+      "home": 2,
+      "date": "2026-10-24",
+      "rating": 5,
+      "reviewer": "Guest 27",
+      "text": "I enjoyed my stay , great location and fast communication"
+    },
+    {
+      "id": "9000000000000000028",
+      "home": 2,
+      "date": "2026-10-22",
+      "rating": 5,
+      "reviewer": "Guest 28",
+      "text": "My second time and definitely will not be my last time booking with them , great location easy to navigate around the city ! Would recommend !!"
+    },
+    {
+      "id": "9000000000000000029",
+      "home": 2,
+      "date": "2026-10-21",
+      "rating": 5,
+      "reviewer": "Guest 29",
+      "text": "Close to home will rent here again!"
+    },
+    {
+      "id": "9000000000000000030",
+      "home": 2,
+      "date": "2026-10-20",
+      "rating": 5,
+      "reviewer": "Guest 30",
+      "text": "Amazing and friendly communication as well as prompt responses! I stayed at this property twice now and will always pick this as number 1 when needing accommodations. The property was clean and cozy."
+    },
+    {
+      "id": "9000000000000000031",
+      "home": 3,
+      "date": "2026-11-13",
+      "rating": 5,
+      "reviewer": "Guest 31",
+      "text": "Very nice place, very walkable area, the surroundings were very cute"
+    },
+    {
+      "id": "9000000000000000032",
+      "home": 3,
+      "date": "2026-11-07",
+      "rating": 4,
+      "reviewer": "Guest 32",
+      "text": "Great apartment for my stay in Hamilton. Awesome location downtown. The host was very responsive and easy to reach.  I was worried about some previous comments mentioning difficult parking, but was able to find free parking on the street within 200m on both a Thursday and Friday night very quickly.  The only downside was how noisy the surrounding area was and the apartment being poorly isolated for it. Would definitely rent again overall if I come back!"
+    },
+    {
+      "id": "9000000000000000033",
+      "home": 3,
+      "date": "2026-11-04",
+      "rating": 5,
+      "reviewer": "Guest 33",
+      "text": "I had a wonderful stay at this Airbnb in Hamilton from November 2-4. The accommodations were comfortable, clean, and well maintained, and everything was exactly what I needed for my visit. The entire experience was smooth and enjoyable. I would happily stay here again and would definitely recommend it to others visiting the area. Thanks for a great stay!"
+    },
+    {
+      "id": "9000000000000000034",
+      "home": 3,
+      "date": "2026-11-01",
+      "rating": 5,
+      "reviewer": "Guest 34",
+      "text": "Staying here for two nights was amazing. Easy to find and everything was exactly as described"
+    },
+    {
+      "id": "9000000000000000035",
+      "home": 3,
+      "date": "2026-10-29",
+      "rating": 5,
+      "reviewer": "Guest 35",
+      "text": "The stay here was super nice, there's plenty of nearby shops which was super convenient in terms of grabbing food or any necessities. The place was cozy and super clean and nonetheless the host was super helpful. I'd definitely stay here again next time I visit!"
+    },
+    {
+      "id": "9000000000000000036",
+      "home": 4,
+      "date": "2026-11-15",
+      "rating": 5,
+      "reviewer": "Guest 36",
+      "text": "Excellent spot in a nice area. Absolutely loved all of the businesses right around the corner on James St."
+    },
+    {
+      "id": "9000000000000000037",
+      "home": 4,
+      "date": "2026-11-13",
+      "rating": 5,
+      "reviewer": "Guest 37",
+      "text": "So many restaurants and cafes nearby!"
+    },
+    {
+      "id": "9000000000000000038",
+      "home": 4,
+      "date": "2026-11-09",
+      "rating": 5,
+      "reviewer": "Guest 38",
+      "text": "Muy amables. Respondian rapidamente, los servicios del departamento muy utiles."
+    },
+    {
+      "id": "9000000000000000039",
+      "home": 4,
+      "date": "2026-11-03",
+      "rating": 5,
+      "reviewer": "Guest 39",
+      "text": "We wanted to stay in a character apartment. This place delivered. Well appointed. Well decorated. There were many extra touches that made us feel at home. The desk placed in front of a window. Interesting books. Loved the fireplace in the bedroom. We ate in. We had delicious pizza and chicken from places only steps away. Well stocked grocery store, coffee shops all right there. Kitchen was well equipped."
+    },
+    {
+      "id": "9000000000000000040",
+      "home": 4,
+      "date": "2026-11-01",
+      "rating": 5,
+      "reviewer": "Guest 40",
+      "text": "This is one of my go-to places for a weekend getaway! The hosts are incredibly nice, responsive, and always willing to help with anything you need. I even had something come up that required me to leave a day early, and they were kind enough to provide a full refund for that night. I always have a great experience staying here and would definitely recommend it, 100%!"
+    },
+    {
+      "id": "9000000000000000041",
+      "home": 4,
+      "date": "2026-10-27",
+      "rating": 5,
+      "reviewer": "Guest 41",
+      "text": "nice cute apartment in a very convenient location"
+    },
+    {
+      "id": "9000000000000000042",
+      "home": 4,
+      "date": "2026-10-23",
+      "rating": 5,
+      "reviewer": "Guest 42",
+      "text": "Excellent location/walk score to restaurants, pubs and coffee shops.  Excellent value for the $. The hosts were super responsive as well."
+    },
+    {
+      "id": "9000000000000000043",
+      "home": 4,
+      "date": "2026-10-22",
+      "rating": 5,
+      "reviewer": "Guest 43",
+      "text": "Absolutely perfect"
+    },
+    {
+      "id": "9000000000000000044",
+      "home": 5,
+      "date": "2026-11-01",
+      "rating": 5,
+      "reviewer": "Guest 44",
+      "text": "Great trip! Convenient location"
+    },
+    {
+      "id": "9000000000000000045",
+      "home": 7,
+      "date": "2026-11-09",
+      "rating": 5,
+      "reviewer": "Guest 45",
+      "text": "Super on top of communicating and reaching out to make sure our stay was as smooth as possible. We will be back!"
+    }
+  ],
+  "booking_observed": {
+    "1": {
+      "overall": 7.7,
+      "Review count": 180,
+      "Cleanliness": 8.7,
+      "Location": 8.5,
+      "Value for money": 8.5
+    },
+    "2": {
+      "overall": 7.0
+    },
+    "3": {
+      "overall": 7.6
+    },
+    "4": {
+      "overall": 7.8
+    },
+    "5": {
+      "overall": 7.8
+    },
+    "6": {
+      "overall": 9.0
+    },
+    "7": {
+      "overall": 8.9
+    },
+    "8": {
+      "overall": 8.1
+    },
+    "9": {
+      "overall": 8.4
+    },
+    "10": {
+      "overall": 8.5
+    }
+  }
+}

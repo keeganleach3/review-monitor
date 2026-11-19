@@ -1,0 +1,36 @@
+# Runs the agent in GitHub Actions. State lives in the Google Sheet itself (the latest run tab),
+# so a fresh runner each time is fine.
+#
+# Manual only for now (Actions tab > collect-reviews > Run workflow). To run on a schedule, uncomment
+# `schedule`. Notes: GitHub's cron is best-effort and can run late; every 10 minutes is ~4,300
+# runner-minutes a month, over the free tier for private repos; alerts need the SMTP secrets, because
+# alerts.log on a runner is thrown away.
+name: collect-reviews
+on:
+  workflow_dispatch: {}
+  # schedule:
+  #   - cron: "*/10 * * * *"   # the brief's 10-minute cadence; "0 6 * * 1" for weekly
+concurrency:                   # never let two runs overlap
+  group: collect-reviews
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - run: pip install -e .
+      - name: Run the agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_SMTP_HOST: ${{ secrets.ALERT_SMTP_HOST }}
+          ALERT_SMTP_USER: ${{ secrets.ALERT_SMTP_USER }}
+          ALERT_SMTP_PASSWORD: ${{ secrets.ALERT_SMTP_PASSWORD }}
+        run: |
+          echo "$GOOGLE_CREDENTIALS_JSON" > /tmp/sa.json
+          GOOGLE_APPLICATION_CREDENTIALS=/tmp/sa.json python -m review_monitor run --mode live --sheet google --budget 420

@@ -1,0 +1,14 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+*.xlsx
+alerts.log
+# secrets: keep service-account keys outside the repo entirely
+.env
+.env.*
+!.env.example
+*.json.key
+service-account*.json
+# local tooling notes, not part of the project
+docs/superpowers/

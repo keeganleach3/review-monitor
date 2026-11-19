@@ -1,0 +1,32 @@
+# python -m review_monitor verify --gap 10    (Nov 19, 2026; times are UTC; Sheet link removed)
+
+Run 2026-11-19 22.21.14  (24.7s, 21 requests)
+  Airbnb: ok=4, ok_no_recent_reviews=6
+  Booking.com: blocked_by_bot_protection=10
+  reviews in window: 7 (7 new)
+  model: claude-haiku-5-5; tokens in/out: 5,865/582 (cache reads 2,274)
+  alerts: none
+  sheet: (private Google Sheet)
+  agent: I tagged 7 new reviews, and the overall mood is strongly positive, with guests praising cleanliness, location, and friendly hosts.
+waiting 10.0 min before run 2
+Run 2026-11-19 22.31.40  (15.8s, 11 requests)
+  Airbnb: unchanged=10
+  Booking.com: blocked_by_bot_protection=10
+  reviews in window: 7 (0 new)
+  model: not called (no new reviews); tokens in/out: 0/0
+  alerts: none
+  sheet: (private Google Sheet)
+  agent: No new reviews, so the model was not called.
+
+Requirements check
+  PASS  Dashboard, Changes and both run tabs exist
+  PASS  Airbnb rating, review count and category scores for all 10 homes
+  PASS  Every Dashboard number is a formula; data columns read the latest run tab
+  PASS  Airbnb status ok/unchanged for every home
+  PASS  Booking.com status reported; review counts blank where blocked
+  PASS  The run tab holds exactly the 7 reviews collected, each tagged and inside the window
+  PASS  Model called only when there were new reviews to tag
+  PASS  Run 2 started 10.4 min after run 1
+  run 1: 5,865 input tokens (2,274 from cache), 582 output
+  run 2: 0 input tokens (0 from cache), 0 output
+  sheet: (private Google Sheet)
